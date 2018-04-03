@@ -112,8 +112,9 @@ a {
 .profile-img {
 	clear: both;
 	float: left;
-	border-radius: 4px;
+	/*border-radius: 4px;*/
 	margin: 0 1em 1em 0;
+	padding: 0 40px;
 	width: 100%;
 }
 
@@ -251,4 +252,12 @@ a {
 	  width: span(1 of 1);
 	}
 
+}
+
+.one-fourth h3, .one-fourth-last h3 {
+	text-align: center;
+}
+
+.one-fourth p, .one-fourth-last p {
+	font-size: 0.8em;
 }

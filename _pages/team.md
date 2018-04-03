@@ -83,7 +83,7 @@ Undergraduate Student, Carey Lab, Virginia Tech
 ![Mary Lofton](../assets/images/mary.jpg){: .profile-img}
 ### [Mary Lofton <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/mary-lofton/)
 
-PhD Student, Carey Lab , Virginia Tech
+PhD Student, Carey Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
@@ -91,15 +91,15 @@ PhD Student, Carey Lab , Virginia Tech
 ![Ryan McClure](../assets/images/ryan.jpg){: .profile-img}
 ### [Ryan McClure <i class="fa fa-link"></i>](http://www.globalchange.vt.edu/ryan-mcclure/)
 
-PhD Student, Carey Lab , Virginia Tech
+PhD Student, Carey Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/katie.jpg){: .profile-img}
-### [Katie Krueger <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/?page_id=13)
+### [Katie Krueger <i class="fa fa-link"></i>](http://www.hydro.geos.vt.edu/)
 
-Undergraduate Student, Carey Lab, Virginia Tech
+Graduate Student, Hydrogeosciences Research, Virginia Tech
 {::nomarkdown}</div></div>{:/nomarkdown}
 
 
