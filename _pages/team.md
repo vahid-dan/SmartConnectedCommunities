@@ -96,6 +96,14 @@ PhD Student, Carey Lab , Virginia Tech
 
 
 {::nomarkdown}<div class="one-fourth-last">{:/nomarkdown}
+![Vahid Daneshmand](../assets/images/katie.jpg){: .profile-img}
+### [Katie Krueger <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/?page_id=13)
+
+Undergraduate Student, Carey Lab, Virginia Tech
+{::nomarkdown}</div></div>{:/nomarkdown}
+
+
+{::nomarkdown}<div class="one-fourth">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 
